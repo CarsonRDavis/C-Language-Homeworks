@@ -1,0 +1,22 @@
+Address			 Square-feet	Price
+
+240  Berkshire Ct	5600		825000
+1234 Ruby Way       2200		219000
+498  Sommer Drive	1750		185500
+2345 Ruby Way		2375		240500
+5285 Winding Drive	2400		180000
+4245 Berkeley Cir	2000		250000
+4129 Hover Lane		1875		195950
+276  Berkshire Ct	4500		675000
+2400 Ruby Way		2180		200000
+365  Sommer Drive	1600		175500
+490  Sommer Drive	1770		150000
+5300 Winding Drive	2650		225600
+185  Berkshire Ct	4145		550000
+4386 Berkeley Cir	2200		275500
+3389 Hover Lane		2150		180000
+2568 Ruby Way		2400		250000
+4200 Berkeley Cir	2300		289000
+3898 Hover Lane		2000		200000
+6300 Winding Drive	2550		245000
+369  Sommer Drive	1770		177000
